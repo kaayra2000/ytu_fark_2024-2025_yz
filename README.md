@@ -12,3 +12,14 @@
 * Nasıl kullanılabilir veri elde ederim?
 * Makine Öğrenmesi (genel bakış)
 * Derin Öğrenme (genel bakış)
+
+## 2. Hafta Makine Öğrenmesi Temelleri​
+* Makine öğrenmesi nedir?​
+* Denetimli Öğrenme​
+* Denetimsiz Öğrenme​
+* Yarı Denetimli Öğrenme​
+* Pekiştirmeli Öğrenme​
+* Denetimli Öğrenme Algoritmaları​
+* Denetimsiz Öğrenme Algoritmaları​
+
+​
