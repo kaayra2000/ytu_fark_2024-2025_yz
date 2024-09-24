@@ -22,4 +22,11 @@
 * Denetimli Öğrenme Algoritmaları​
 * Denetimsiz Öğrenme Algoritmaları​
 
-​
+## 3. Hafta Doğal Dil İşlemeye Giriş
+* Doğal Dil İşleme Nedir?
+​* NLP'nin Tarihçesi ve Gelişimi
+* Tokenizasyon
+* Lemmatizasyon
+* POS
+* NLP'nin Uygulama Alanları
+* NLP'nin Güncel Zorlukları ve Geleceği
