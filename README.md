@@ -1,4 +1,4 @@
-# Fikrî Araştırmalar Kulübü Yapay Zeka Kursu
+# Fikrî Araştırmalar Kulübü Yapay Zekâ Kursu
 2024-2025 Eğitim Öğretim Yılı Güz Dönemi'ni kapsar. Yıldız Teknik Üniversitesi Fikrî Araştırmalar kulübüne aittir.
 
 # İçerik
