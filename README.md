@@ -23,10 +23,28 @@
 * Denetimsiz Öğrenme Algoritmaları​
 
 ## 3. Hafta Doğal Dil İşlemeye Giriş
+
 * Doğal Dil İşleme Nedir?
-​* NLP'nin Tarihçesi ve Gelişimi
+* NLP'nin Tarihçesi ve Gelişimi
 * Tokenizasyon
 * Lemmatizasyon
 * POS
 * NLP'nin Uygulama Alanları
 * NLP'nin Güncel Zorlukları ve Geleceği
+
+## 4. Hafta Doğal Dil İşleme Teknikleri
+
+* Vektör temsilleri ve kelime gömmeleri
+* Metin sınıflandırma
+* Makine çevirisi
+* Benzerlik analizi
+* Duygu Analizi
+* Metin Sınıflandırma
+
+## 5. Hafta Derin Öğrenme ve NLP
+
+* Yapay sinir ağlarına giriş
+* Derin öğrenme modelleri
+* CNN
+* RNN
+
